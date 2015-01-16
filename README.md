@@ -8,3 +8,4 @@ Date | Program | What it does | Keys | Keys | Notes
 2015/01/13 | Xcode | Jump to next issue | ⌘'| Command ' |
 2015/01/14 | iTerm2 | Word jump, VIM style | ⌥h (←), ⌥l (→) | Option H (←), Option L (→) | https://coderwall.com/p/h6yfda/use-and-to-jump-forwards-backwards-words-in-iterm-2-on-os-x
 2015/01/15 | Vim | Move cursor to first, middle, last screen line | H, M, L | |
+2015/01/16 | Vim | Go to the matching parenthesis | % | |
