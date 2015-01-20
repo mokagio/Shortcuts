@@ -11,3 +11,4 @@ Date | Program | What it does | Keys | Keys | Notes
 2015/01/16 | Vim | Go to the matching parenthesis | % | |
 2015/01/19 | XVim | Relative lines number | `set relativenumber` in `.xvimrc` | | Port of [this](http://jeffkreeftmeijer.com/2012/relative-line-numbers-in-vim-for-super-fast-movement/) vim plugin
 2015/01/20 | Vim | Page up, down | Ctrl-B, Ctrl-F | | |
+2015/01/21 | Xcode | Select an utility area inspector | ⌥⌘1-6 | Option Command 1 to 6 |
