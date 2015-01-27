@@ -16,3 +16,4 @@ Date | Program | What it does | Keys | Keys | Notes
 2015/01/23 | Vim | Delete the next <number> words | d<number>w | | This is actually a deeper combo: command number motion, which repeats command number times in the motiond direction (_I think_)
 2015/01/25 | Xcode | Jump to definition | ^⌘J | Ctrl Comant J | Jump to definition on what's under the cursor
 2015/10/27 | Vim | Delete entire line | dd | |
+2015/01/28 | Git | Show only file names on a diff/show | --name-only | | Use this `git show HEAD --name-only` to see only the names of the files changed in the last commit
