@@ -17,3 +17,4 @@ Date | Program | What it does | Keys | Keys | Notes
 2015/01/25 | Xcode | Jump to definition | ^⌘J | Ctrl Comant J | Jump to definition on what's under the cursor
 2015/10/27 | Vim | Delete entire line | dd | |
 2015/01/28 | Git | Show only file names on a diff/show | --name-only | | Use this `git show HEAD --name-only` to see only the names of the files changed in the last commit
+2015/01/29 | Xcode | Show TODOs window | ^T | Ctrl T | Needs the [XToDo plugin](https://github.com/trawor/XToDo) to be installed
