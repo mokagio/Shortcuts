@@ -19,3 +19,4 @@ Date | Program | What it does | Keys | Keys | Notes
 2015/01/28 | Git | Show only file names on a diff/show | --name-only | | Use this `git show HEAD --name-only` to see only the names of the files changed in the last commit
 2015/01/29 | Xcode | Show TODOs window | ^T | Ctrl T | Needs the [XToDo plugin](https://github.com/trawor/XToDo) to be installed
 2015/01/30 | Vim | Rename file from Netrw | R | | _To be fair it'd always been written on the header, quite silly that I had to google it..._
+2015/02/02 | Vim | Create new file from Netrw | % | _This one wasn't in the header instead ^^_
