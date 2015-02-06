@@ -21,3 +21,4 @@ Date | Program | What it does | Keys | Keys | Notes
 2015/01/30 | Vim | Rename file from Netrw | R | | _To be fair it'd always been written on the header, quite silly that I had to google it..._
 2015/02/02 | Vim | Create new file from Netrw | % | | _This one wasn't in the header instead ^^_
 2015/02/03 | Vim | Create new directory from Netrw | d | | 
+2015/02/05 | Vim | searc | / | | |
