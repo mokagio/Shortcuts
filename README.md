@@ -23,3 +23,4 @@ Date | Program | What it does | Keys | Keys | Notes
 2015/02/03 | Vim | Create new directory from Netrw | d | | 
 2015/02/04 | Vim | Select entire word in Visual mode | aw | |
 2015/02/05 | Vim | Search | / | | _Then using n you can go to the next match_ |
+2015/02/09 | Vim | Run external command | :! | |
