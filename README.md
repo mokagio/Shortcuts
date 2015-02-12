@@ -25,3 +25,4 @@ Date | Program | What it does | Keys | Keys | Notes
 2015/02/05 | Vim | Search | / | | _Then using n you can go to the next match_ |
 2015/02/09 | Vim | Run external command | :! | |
 2015/02/11 | Vim | Replace mode | R | | "Replace mode is like Insert mode, but every typed character deletes an existing character." `vimtutor`
+2015/02/12 | Unix | Show line number with grep | -n | | _Ok this is an option, but it's kind of a shortcut right?_
