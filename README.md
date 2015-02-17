@@ -28,3 +28,4 @@ Date | Program | What it does | Keys | Keys | Notes
 2015/02/12 | Unix | Show line number with grep | -n | | _Ok this is an option, but it's kind of a shortcut right?_
 2015/02/13 | Xcode | Clean Build Folder | ⌥⇧⌘K | Option Shift Command K | Deletes the infamous DerivedData folder
 2015/02/15 | Vim | Jump to the start or end of a sentence | (, ) | |
+2015/02/17 | Vim | Split window horizontally and vertically | :sp, :vs | |
