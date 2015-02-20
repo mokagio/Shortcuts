@@ -18,9 +18,9 @@ Date | Program | What it does | Keys | Keys | Notes
 2015/10/27 | Vim | Delete entire line | dd | |
 2015/01/28 | Git | Show only file names on a diff/show | --name-only | | Use this `git show HEAD --name-only` to see only the names of the files changed in the last commit
 2015/01/29 | Xcode | Show TODOs window | ^T | Ctrl T | Needs the [XToDo plugin](https://github.com/trawor/XToDo) to be installed
-2015/01/30 | Vim | Rename file from Netrw | R | | _To be fair it'd always been written on the header, quite silly that I had to google it..._
-2015/02/02 | Vim | Create new file from Netrw | % | | _This one wasn't in the header instead ^^_
-2015/02/03 | Vim | Create new directory from Netrw | d | | 
+2015/01/30 | Vim - Netrw | Rename file | R | | _To be fair it'd always been written on the header, quite silly that I had to google it..._
+2015/02/02 | Vim - Netrw | Create new file | % | | _This one wasn't in the header instead ^^_
+2015/02/03 | Vim - Netrw | Create new directory | d | | 
 2015/02/04 | Vim | Select entire word in Visual mode | aw | |
 2015/02/05 | Vim | Search | / | | _Then using n you can go to the next match_ |
 2015/02/09 | Vim | Run external command | :! | |
@@ -31,3 +31,4 @@ Date | Program | What it does | Keys | Keys | Notes
 2015/02/17 | Vim | Split window horizontally and vertically | :sp, :vs | |
 2015/02/18 | Vim | Re-indent live/selection | == | |
 2015/02/19 | Reveal | Increase/Decrease views separation | ⌥⌘., ⌥⌘, | |
+2015/02/20 | Vim - Netrw | Preview file | p | |
