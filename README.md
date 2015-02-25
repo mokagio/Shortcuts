@@ -35,3 +35,4 @@ Date | Program | What it does | Keys | Keys | Notes
 2015/02/23 | Colemak | Euro symbol (€) | ⇧⌥2| Shift Alt 2 | |
 2015/02/24 | Xcode | Change scheme | ^⌘] ^⌘[ | Ctrl Cmd [, Ctrl Cmd ] |
 2015/01/25 | Shell | Last argument | !$ | | `chmod 755 /etc/file; vim !$ # vim /etc/file`
+2015/01/26 | Reveal | Select an Inspector | ^⌥1-5 | Ctrl Alt 1-5 |
