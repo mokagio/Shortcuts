@@ -36,4 +36,5 @@ Date | Program | What it does | Keys | Keys | Notes
 2015/02/24 | Xcode | Change scheme | ^⌘] ^⌘[ | Ctrl Cmd [, Ctrl Cmd ] |
 2015/02/25 | Shell | Last argument | !$ | | `chmod 755 /etc/file; vim !$ # vim /etc/file`
 2015/02/26 | Reveal | Select an Inspector | ^⌥1-5 | Ctrl Alt 1-5 |
-2015/02/27 | Chrome | Go to last tab in the window | ⌘9 | Cmd 9 | |
+2015/02/26 | Chrome | Go to last tab in the window | ⌘9 | Cmd 9 | |
+2015/02/27 | Xcode | Edit current scheme | ⌘< | Cmd < | |
