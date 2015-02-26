@@ -38,3 +38,4 @@ Date | Program | What it does | Keys | Keys | Notes
 2015/02/26 | Reveal | Select an Inspector | ^⌥1-5 | Ctrl Alt 1-5 |
 2015/02/26 | Chrome | Go to last tab in the window | ⌘9 | Cmd 9 | |
 2015/02/27 | Xcode | Edit current scheme | ⌘< | Cmd < | |
+2015/02/27 | Xcode - Interface Builder | Size to fit | ⌘= | Cmd = | |
