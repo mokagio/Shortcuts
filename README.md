@@ -44,3 +44,4 @@ Date | Program | What it does | Keys | Keys | Notes
 2015/03/06 | AppCode | Expand/Collapse code folding | ⌘+/⌘- | Cmd + / Cmd - | _This is for keyboards without NumPad |
 2015/03/09 | Quick Time | New Screen Recording | ^⌘N | Ctrl Cmd N | |
 2015/03/11 | Xcode | Expand/Collapse code folding | ⌥⌘→, ⌥⌘←| Alt Cmd Right Arrow / Alt Cmd Left Arrow | |
+2015/03/12 | Gmail | Mark all as read | ⇧i | Shift i | |
