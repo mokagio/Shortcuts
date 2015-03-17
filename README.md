@@ -41,10 +41,11 @@ Date | Program | What it does | Keys | Keys | Notes
 2015/02/27 | Xcode - Interface Builder | Size to fit | ⌘= | Cmd = | |
 2015/03/02 | iTerm 2 | Show Toolbelt | ⇧⌘B | Shift Cmd B | |
 2015/03/03 | Vim | Go back to previous jump location | '' | | 
-2015/03/06 | AppCode | Expand/Collapse code folding | ⌘+/⌘- | Cmd + / Cmd - | _This is for keyboards without NumPad |
+2015/03/06 | AppCode | Expand/Collapse code folding | ⌘+/⌘- | Cmd + / Cmd - | _This is for keyboards without NumPad_ |
 2015/03/09 | Quick Time | New Screen Recording | ^⌘N | Ctrl Cmd N | |
 2015/03/11 | Xcode | Expand/Collapse code folding | ⌥⌘→, ⌥⌘←| Alt Cmd Right Arrow / Alt Cmd Left Arrow | |
 2015/03/12 | Gmail | Mark as read | ⇧I | Shift I | |
 2015/03/13 | AppCode | Show usages | ⌥⌘F7 | Alt Cmd F7 | |
 2015/03/16 | Xcode | Toggle XVim plugin | ⇧⌘X | Shift Cmd X | _Useful sometimes, like when you have to add emojis :smile:_ |
 2015/03/17 | Vim | Search word under cursor | * | |
+2015/03/18 | XVim | Navigate between split windows | Ctrl w _then_ w, or h j k l | | _Same as VIM, of course :simple_smile_
