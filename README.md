@@ -46,4 +46,5 @@ Date | Program | What it does | Keys | Keys | Notes
 2015/03/11 | Xcode | Expand/Collapse code folding | ⌥⌘→, ⌥⌘←| Alt Cmd Right Arrow / Alt Cmd Left Arrow | |
 2015/03/12 | Gmail | Mark as read | ⇧I | Shift I | |
 2015/03/13 | AppCode | Show usages | ⌥⌘F7 | Alt Cmd F7 | |
-2015/03/16 | Xcode | Toggle XVim plugin | ⇧⌘X | Shift Cmd X | _Useful sometimes, like when you have to add emojis :smile: |
+2015/03/16 | Xcode | Toggle XVim plugin | ⇧⌘X | Shift Cmd X | _Useful sometimes, like when you have to add emojis :smile:_ |
+2015/03/17 | Vim | Search word under cursor | * | |
