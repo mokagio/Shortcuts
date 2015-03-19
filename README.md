@@ -48,4 +48,5 @@ Date | Program | What it does | Keys | Keys | Notes
 2015/03/13 | AppCode | Show usages | ⌥⌘F7 | Alt Cmd F7 | |
 2015/03/16 | Xcode | Toggle XVim plugin | ⇧⌘X | Shift Cmd X | _Useful sometimes, like when you have to add emojis :smile:_ |
 2015/03/17 | Vim | Search word under cursor | * | |
-2015/03/18 | XVim | Navigate between split windows | Ctrl w _then_ w, or h j k l | | _Same as VIM, of course :simple_smile_
+2015/03/18 | XVim | Navigate between split windows | Ctrl w _then_ w, or h j k l | | _Same as VIM, of course :simple_smile:_
+2015/03/19 | Vim | Replace all occurrences | :%s/foo/bar/g | | Note how you have to use s, which stands for substitute
