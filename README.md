@@ -51,3 +51,4 @@ Date | Program | What it does | Keys | Keys | Notes
 2015/03/18 | XVim | Navigate between split windows | Ctrl w _then_ w, or h j k l | | _Same as VIM, of course :simple_smile:_
 2015/03/19 | Vim | Replace all occurrences | :%s/foo/bar/g | | Note how you have to use s, which stands for substitute
 2015/03/20 | Gmail | Archive | e | |
+2015/03/21 | Gmail | Send to Trash | # | |
