@@ -52,3 +52,4 @@ Date | Program | What it does | Keys | Keys | Notes
 2015/03/19 | Vim | Replace all occurrences | :%s/foo/bar/g | | Note how you have to use s, which stands for substitute
 2015/03/20 | Gmail | Archive | e | |
 2015/03/21 | Gmail | Send to Trash | # | |
+2015/03/23 | Trello | Move card to next/previous column | < > | |
