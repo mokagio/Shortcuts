@@ -54,3 +54,4 @@ Date | Program | What it does | Keys | Keys | Notes
 2015/03/21 | Gmail | Send to Trash | # | |
 2015/03/23 | Trello | Move card to next/previous column | < > | |
 2015/03/24 | OS X | (When in Trash) put back item | ⌘⌫ | Cmd Delete | https://twitter.com/jspahrsummers/status/580157469357297664 |
+2015/03/25 | iTerm | Scroll up and down | ⌘↑ ⌘↓ | Cmp Arrow Up, Cmd Arrow Down | |
