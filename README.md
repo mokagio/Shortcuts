@@ -39,7 +39,7 @@ Date | Program | What it does | Keys | Keys | Notes
 2015/02/26 | Chrome | Go to last tab in the window | ⌘9 | Cmd 9 | |
 2015/02/27 | Xcode | Edit current scheme | ⌘< | Cmd < | |
 2015/02/27 | Xcode - Interface Builder | Size to fit | ⌘= | Cmd = | |
-2015/03/02 | iTerm 2 | Show Toolbelt | ⇧⌘B | Shift Cmd B | |
+2015/03/02 | iTerm2 | Show Toolbelt | ⇧⌘B | Shift Cmd B | |
 2015/03/03 | Vim | Go back to previous jump location | '' | | 
 2015/03/06 | AppCode | Expand/Collapse code folding | ⌘+/⌘- | Cmd + / Cmd - | _This is for keyboards without NumPad_ |
 2015/03/09 | Quick Time | New Screen Recording | ^⌘N | Ctrl Cmd N | |
@@ -54,5 +54,6 @@ Date | Program | What it does | Keys | Keys | Notes
 2015/03/21 | Gmail | Send to Trash | # | |
 2015/03/23 | Trello | Move card to next/previous column | < > | |
 2015/03/24 | OS X | (When in Trash) put back item | ⌘⌫ | Cmd Delete | https://twitter.com/jspahrsummers/status/580157469357297664 |
-2015/03/25 | iTerm | Scroll up and down | ⌘↑ ⌘↓ | Cmp Arrow Up, Cmd Arrow Down | 
+2015/03/25 | iTerm2 | Scroll up and down | ⌘↑ ⌘↓ | Cmd Arrow Up, Cmd Arrow Down | 
 2015/03/26 | GitHub | Activate fuzzy file finder | t | | 
+2015/03/27 | iTerm2 | Page up and down | ⌘⇞ ⌘⇟ | Cmd Fn Arrow Up, Cmd Fn Arrow Down |
