@@ -57,3 +57,4 @@ Date | Program | What it does | Keys | Keys | Notes
 2015/03/25 | iTerm2 | Scroll up and down | ⌘↑ ⌘↓ | Cmd Arrow Up, Cmd Arrow Down | 
 2015/03/26 | GitHub | Activate fuzzy file finder | t | | 
 2015/03/27 | iTerm2 | Page up and down | ⌘⇞ ⌘⇟ | Cmd Fn Arrow Up, Cmd Fn Arrow Down |
+2o15/03/30 | GitHub | Focus search bar | s | | _Didn't it use to be `/`?_
