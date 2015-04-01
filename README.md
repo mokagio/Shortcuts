@@ -59,3 +59,4 @@ Date | Program | What it does | Keys | Keys | Notes
 2015/03/27 | iTerm2 | Page up and down | ⌘⇞ ⌘⇟ | Cmd Fn Arrow Up, Cmd Fn Arrow Down |
 2015/03/30 | GitHub | Focus search bar | s | | _Didn't it use to be `/`?_
 2015/03/31 | Xcode | Organizer | ⇧⌘X | | _This is a custom shortcut 😎, I set it myself because Xcode 6 doesn't have one_
+2015/04/01 | Xcode | Run only test where the cursor is | Ctrl ⌥ ⌘ U | Ctrl Option Cmd U |
