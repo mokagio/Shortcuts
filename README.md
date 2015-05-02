@@ -62,3 +62,4 @@ Date | Program | What it does | Keys | Keys | Notes
 2015/04/01 | Xcode | Run only test where the cursor is | Ctrl ⌥ ⌘ U | Ctrl Option Cmd U |
 2015/04/14 | GitHub | Open switch branch popup | w | |
 2015/04/21 | Codewars | Run tests | ⌘ ' | Cmd ' |
+2015/05/02 | Trello | Toggle sidebar | w | |  
